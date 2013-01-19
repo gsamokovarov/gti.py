@@ -3,16 +3,16 @@ gti.py
 
 Just a silly `git` launcher, basically. Inspired by `sl`.
 
+A port of the original [gti][] in Python.
+
 Install
 -------
 
-This is a port of the original [gti][], but written in Python. Just
-copy it somewhere in your `$PATH`. It should run fine on Python > 2.3.
-It is a perfect fit for `$USER/bin` folders, so you can easily put it
-in your [`.files`][.files] repo.
+```sh
+curl https://raw.github.com/gsamokovarov/gti.py/master/gti > bin/gti
+```
 
-[gti]: https://github.com/rwos/gti
-[.files]: https://github.com/gsamokovarov/.files
+Requires Python greater than `2.3`. Works on Python 3 too.
 
 Usage
 -----
@@ -31,3 +31,6 @@ that both that copyright notice and this permission notice appear in
 supporting documentation.  No representations are made about the
 suitability of this software for any purpose.  It is provided "as
 is" without express or implied warranty.
+
+[gti]: https://github.com/rwos/gti
+[.files]: https://github.com/gsamokovarov/.files
