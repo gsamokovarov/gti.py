@@ -9,7 +9,7 @@ Install
 -------
 
 ```sh
-curl https://raw.github.com/gsamokovarov/gti.py/master/gti > bin/gti
+curl https://raw.github.com/gsamokovarov/gti.py/master/gti > ~/bin/gti
 ```
 
 Requires Python greater than `2.3`. Works on Python 3 too.
