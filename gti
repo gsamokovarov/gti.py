@@ -26,7 +26,7 @@ def term_width():
 def init_space():
     stdout.write('\n\n\n\n\n\n\n')
 
-def move_to_top(flush=True):
+def move_to_top(flush=False):
     stdout.write('\033[7A')
     if flush:
         stdout.flush()
