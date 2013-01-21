@@ -1,5 +1,4 @@
-gti.py
-======
+![.gti](https://raw.github.com/gsamokovarov/gti.py/master/.gti.gif)
 
 Just a silly `git` launcher, basically. Inspired by `sl`.
 
@@ -33,4 +32,3 @@ suitability of this software for any purpose.  It is provided "as
 is" without express or implied warranty.
 
 [gti]: https://github.com/rwos/gti
-[.files]: https://github.com/gsamokovarov/.files
